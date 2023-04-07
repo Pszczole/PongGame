@@ -4,4 +4,4 @@ Sterujemy przy użyciu klawiszy w/s oraz strzałki w dół i w górę. W repozyt
 znajduje się plik PongGameScreen.png, w którym można zobaczyć jak gra wygląda.
 
 
-![Screenshot](PongGameScreen.PNG)
+![PongGame](PongGameScreen.PNG)
